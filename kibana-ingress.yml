@@ -12,5 +12,5 @@ spec:
       paths:
         - backend:
             serviceName: kibana 
-            servicePort: 5601 
+            servicePort: 80 
           path: /logs

@@ -12,5 +12,5 @@ spec:
       paths:
         - backend:
             serviceName: operate 
-            servicePort: 8080
+            servicePort: 80
           path: /
